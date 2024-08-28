@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. John Smith",
+      "subject": "Computer Science",
+      "stars": 4,
+      "review": "Dr. Smith is very knowledgeable and his lectures are well-organized. However, his exams are challenging and require a deep understanding of the material."
+    },
+    {
+      "professor": "Dr. Emily Johnson",
+      "subject": "Mathematics",
+      "stars": 5,
+      "review": "Dr. Johnson is an excellent professor! She explains complex concepts in an easy-to-understand way and is always willing to help students during office hours."
+    },
+    {
+      "professor": "Dr. Robert Williams",
+      "subject": "Physics",
+      "stars": 3,
+      "review": "Dr. Williams is passionate about physics, but his teaching style is a bit disorganized. His tests are fair, but be prepared to study hard."
+    },
+    {
+      "professor": "Dr. Susan Brown",
+      "subject": "Chemistry",
+      "stars": 2,
+      "review": "Dr. Brown's lectures can be difficult to follow, and she doesn't always respond to emails promptly. Her grading is tough, but you can do well if you put in the effort."
+    },
+    {
+      "professor": "Dr. Michael Davis",
+      "subject": "History",
+      "stars": 5,
+      "review": "Dr. Davis makes history come alive with his engaging lectures. He is very approachable and always encourages class participation."
+    },
+    {
+      "professor": "Dr. Linda Martinez",
+      "subject": "Biology",
+      "stars": 4,
+      "review": "Dr. Martinez is very passionate about biology, and her enthusiasm is contagious. Her exams are fair but require a lot of memorization."
+    },
+    {
+      "professor": "Dr. James Taylor",
+      "subject": "Philosophy",
+      "stars": 3,
+      "review": "Dr. Taylor's lectures are thought-provoking, but his grading can be harsh. Participation in class discussions is crucial for success."
+    },
+    {
+      "professor": "Dr. Karen Anderson",
+      "subject": "Economics",
+      "stars": 5,
+      "review": "Dr. Anderson is an amazing professor! She explains economic concepts in a clear and relatable way. Her exams are challenging but fair."
+    },
+    {
+      "professor": "Dr. William Thomas",
+      "subject": "Political Science",
+      "stars": 4,
+      "review": "Dr. Thomas is very knowledgeable and encourages critical thinking. His classes are engaging, but the workload can be heavy at times."
+    },
+    {
+      "professor": "Dr. Jennifer Moore",
+      "subject": "Psychology",
+      "stars": 5,
+      "review": "Dr. Moore is an excellent professor who makes complex psychological theories easy to understand. Her classes are interactive and enjoyable."
+    },
+    {
+      "professor": "Dr. Christopher Jackson",
+      "subject": "Sociology",
+      "stars": 3,
+      "review": "Dr. Jackson is a decent professor, but his lectures can be a bit dry. However, his assignments are interesting and thought-provoking."
+    },
+    {
+      "professor": "Dr. Patricia Harris",
+      "subject": "English Literature",
+      "stars": 5,
+      "review": "Dr. Harris is a fantastic professor! Her passion for literature is evident in her lectures, and she always encourages deep analysis of the texts."
+    },
+    {
+      "professor": "Dr. Richard Martin",
+      "subject": "Statistics",
+      "stars": 2,
+      "review": "Dr. Martin's lectures are difficult to follow, and he doesn't provide much support outside of class. The exams are challenging, so be prepared to study hard."
+    },
+    {
+      "professor": "Dr. Barbara Lee",
+      "subject": "Environmental Science",
+      "stars": 4,
+      "review": "Dr. Lee is very knowledgeable and passionate about the environment. Her classes are engaging, but the workload can be a bit heavy."
+    },
+    {
+      "professor": "Dr. Thomas Walker",
+      "subject": "Art History",
+      "stars": 5,
+      "review": "Dr. Walker is a fantastic professor! His lectures are captivating, and he always provides valuable insights into the artworks. Highly recommended!"
+    },
+    {
+      "professor": "Dr. Sarah Lewis",
+      "subject": "French",
+      "stars": 4,
+      "review": "Dr. Lewis is a great professor who makes learning French fun and interactive. Her classes are well-structured, but the pace can be fast."
+    },
+    {
+      "professor": "Dr. George Young",
+      "subject": "Anthropology",
+      "stars": 3,
+      "review": "Dr. Young is knowledgeable, but his lectures can be a bit dry. His assignments are interesting, but they require a lot of independent research."
+    },
+    {
+      "professor": "Dr. Elizabeth Allen",
+      "subject": "Music Theory",
+      "stars": 5,
+      "review": "Dr. Allen is an amazing professor! She makes music theory accessible and enjoyable. Her classes are challenging but rewarding."
+    },
+    {
+      "professor": "Dr. Charles King",
+      "subject": "Geography",
+      "stars": 4,
+      "review": "Dr. King is very knowledgeable about geography and provides engaging lectures. The exams are fair, but the amount of content can be overwhelming."
+    },
+    {
+      "professor": "Dr. Jessica White",
+      "subject": "Astronomy",
+      "stars": 5,
+      "review": "Dr. White is an excellent professor! Her passion for astronomy is infectious, and her classes are both informative and engaging."
+    }
+  ]
+}
